@@ -22,3 +22,9 @@ for i in range(LogFilter.shape[0]):
     for j in range(LogFilter.shape[1]):
         print('{0:0.4f} '.format(LogFilter.item(i,j)),end='')
     print()
+    #qweqwe
+    #qweqwe
+    #qweqwe
+    #qweqwe
+    #qweqwe
+    #qweqe
